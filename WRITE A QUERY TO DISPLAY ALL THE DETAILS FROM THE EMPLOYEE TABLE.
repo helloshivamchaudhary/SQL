@@ -1,0 +1,4 @@
+SELECT *
+FROM EMPLOYEE;
+
+This query selects all columns (*) from the "EMPLOYEE" table, retrieving all the details for each employee in the table.
