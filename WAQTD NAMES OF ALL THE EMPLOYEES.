@@ -1,0 +1,7 @@
+WAQTD NAMES OF ALL THE EMPLOYEES.
+
+SELECT ENAME
+FROM EMPLOKYEE;
+
+
+This query selects the "NAME" column from the "EMPLOYEE" table, displaying the names of all the employees in the table.
